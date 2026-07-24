@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# VS Code settings
+.vscode/
+
+# Mac & Windows
+.DS_Store
+Thumbs.db
+
+# Data files (only if they are large or private)
+# *.csv
+# *.xlsx
+
+# Generated plots (optional)
+# *.png
+# *.jpg
