@@ -31,9 +31,17 @@ Extracted insights from player data
 
 Bar Charts
 Count Plots
-Histograms
 Scatter Plots
 Box Plots
+Pie Charts
+
+<img width="409" height="411" alt="output1" src="https://github.com/user-attachments/assets/a0a5d5c2-7800-4578-bd27-9bb715dbf4ab" />
+Histogram
+
+<img width="580" height="460" alt="output" src="https://github.com/user-attachments/assets/e4594fa3-8895-46b9-a123-8ef6987e5e8c" />
+
+
+
 
 **Key Insights**
 
