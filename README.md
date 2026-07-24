@@ -8,6 +8,7 @@ Dataset: FIFA Player's Dataset
 Source: Kaggle
 
 **Tools & Technologies**
+
 Python
 Pandas
 NumPy
@@ -16,6 +17,7 @@ Seaborn
 Jupyter Notebook
 
 **Project Workflow**
+
 Imported and explored the dataset
 Performed data cleaning
 Handled missing values
@@ -26,6 +28,7 @@ Created visualizations
 Extracted insights from player data
 
 **Visualizations**
+
 Bar Charts
 Count Plots
 Histograms
@@ -33,12 +36,14 @@ Scatter Plots
 Box Plots
 
 **Key Insights**
+
 Identified top-performing players.
 Analyzed player ratings and overall performance.
 Compared player attributes such as age, potential, height, weight, and nationality.
 Explored the distribution of player statistics using visualizations.
 
 **Requirements**
+
 Install the required libraries:
 
 pip install -r requirements.txt
