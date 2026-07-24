@@ -223,11 +223,3 @@ __marimo__/
 # Mac & Windows
 .DS_Store
 Thumbs.db
-
-# Data files (only if they are large or private)
-# *.csv
-# *.xlsx
-
-# Generated plots (optional)
-# *.png
-# *.jpg
