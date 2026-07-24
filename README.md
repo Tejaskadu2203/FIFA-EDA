@@ -1,7 +1,7 @@
 **FIFA Player's Data Analysis**
 Overview
 
-This project performs Exploratory Data Analysis (EDA) on the FIFA Player's Dataset using Python. The objective is to clean the data, explore player statistics, identify trends, and visualize key insights related to player performance and attributes.
+Performed Exploratory Data Analysis (EDA) on the FIFA Player's Dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn. Includes data cleaning, visualization, feature analysis, and statistical insights.
 
 **Dataset**
 Dataset: FIFA Player's Dataset
